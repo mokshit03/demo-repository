@@ -1,0 +1,2 @@
+New file created after push command execution and seeing repository on github home page to GitTutoDemo
+this is a master

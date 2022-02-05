@@ -1,0 +1,2 @@
+An empty folder is automatically ignored by git.
+therefore we have made this file.
